@@ -1,10 +1,4 @@
-## 👋 Hi I'm Kenny
-
-#### A Full-Stack Developer and musician based in New York City ☾
-
-I am a recent graduate of Fullstack Academy. 
-
-<!--
+## ☽<!--
 **papercircuit/papercircuit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
